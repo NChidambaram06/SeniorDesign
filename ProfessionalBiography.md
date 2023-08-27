@@ -1,6 +1,6 @@
-# Nishanth Chidambaram Professional Biography
+## Nishanth Chidambaram Professional Biography
 
-## Co-Op and Other Related Experience
+### Co-Op and Other Related Experience
 - Software Developer Intern at Tenet3 in Dayton, Ohio (2 rotations)
   - As a Quality Engineer, used Python and Selenium Python to find bugs and to write and repair automated tests
   - As a Software Engineer, used Python, HTML, and CSS to add new features in application development
